@@ -3,7 +3,7 @@
 ![alt text](./screenshot/appShot.png)
 
 You can see my deployed version here
-https://www.youtube.com/watch?v=zQowljL8e5E
+https://api.flutlab.io/res/projects/355076/zsnxnfxuihq0gqwrmpg0/index.html#/
 
 ## Getting Started
 
